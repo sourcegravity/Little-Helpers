@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<dir name="myproject">
+    <dir name="sub">
+        <dir name="subsub1">
+        </dir>
+        <dir name="subsub2">
+        </dir>
+    </dir>
+</dir>
